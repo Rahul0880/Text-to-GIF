@@ -43,7 +43,7 @@ pip install torch diffusers pillow numpy
 
 1. Ensure a CUDA-compatible GPU is available.
 2. Run the script to generate a GIF based on your specified prompt.
-3. The output file will be saved as `spaceship.gif`.
+3. The output file will be saved as `dogrunning.gif`.
 
 ## Customization
 
